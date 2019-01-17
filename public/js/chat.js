@@ -1,4 +1,4 @@
-/* Variables */
+/* Variables cambio de comentario*/
 var user;
 var timer;
 var socket;
